@@ -1,0 +1,13 @@
+#canvas{
+    position: fixed;
+    left: 32%;
+    top: 34%;
+    border-radius: 900px;
+}
+body{
+    background-image: url("http://fullhdpictures.com/wp-content/uploads/2016/07/Fantastic-Cosmos-Wallpaper.jpg"  );
+    background-repeat: no-repeat ;
+    background-size: 100%;
+    background-color: black;
+
+}
